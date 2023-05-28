@@ -1,0 +1,8 @@
+.layout {
+    display: flex;
+    max-width: 1440px;
+    height: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+}

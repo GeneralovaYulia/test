@@ -1,0 +1,18 @@
+.contactsList {
+    height: 100%;
+    padding: 8px;
+    border-bottom: 1px solid #d1d7db;
+    border-left: 1px solid #d1d7db;
+    border-right: 1px solid #d1d7db;
+}
+
+.item {
+    align-items: center;
+    display: flex;
+    padding: 19px 0;
+    position: relative;
+    width: 100%;
+    border-top: 1px solid var(--white3);
+    border-bottom: 1px solid var(--white3);
+    cursor: pointer;
+}

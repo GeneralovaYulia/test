@@ -1,0 +1,11 @@
+.menu {
+    display: flex;
+}
+
+.searchButton {
+    padding: 8px;
+}
+
+.conversationMenuButton {
+    padding: 8px;
+}

@@ -1,0 +1,25 @@
+.formSearch {
+    padding: 8px;
+    border: 1px solid #d1d7db;
+}
+
+.form {
+    display: flex;
+}
+
+.formControl {
+    display: flex;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0.375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    background-color: #f0f2f5;
+    margin-right: 20px;
+}

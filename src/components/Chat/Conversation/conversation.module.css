@@ -1,0 +1,55 @@
+.conversation {
+    height: 100%;
+    padding: 8px;
+    border-top: 1px solid #d1d7db;
+    border-bottom: 1px solid #d1d7db;
+    border-left: 1px solid #d1d7db;
+    border-right: 1px solid #d1d7db;
+    background-color: #efeae2;
+}
+
+.wrapperInto {
+    display: flex;
+    justify-content: end;
+}
+
+.wrapperOut {
+    display: flex;
+}
+
+.messageOut {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0.375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    background-color: white;
+    margin-right: 20px;
+}
+
+.messageInto {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    width: 60%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0.375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    background-color: #d9fdd3;
+    margin-right: 20px;
+}

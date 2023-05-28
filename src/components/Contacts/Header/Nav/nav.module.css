@@ -1,0 +1,27 @@
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.menuBarCommunity {
+    padding: 8px;
+    cursor: pointer;
+}
+
+.menuBarStatus {
+    padding: 8px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.menuBarChat {
+    padding: 8px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.menuBar {
+    padding: 8px;
+    margin-left: 10px;
+    cursor: pointer;  
+}
